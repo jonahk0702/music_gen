@@ -1,7 +1,7 @@
 ### Music Gen
 
 #### Main Checklist
-[Code](Code_Checklist)
+[Code](Code_Checklist.ipynb)
 - This checklist has all elements of code that need to be there to work
 
 **Slides / Presentation**
