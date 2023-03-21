@@ -5,4 +5,4 @@
 
 [Slides / Presentation](Slides_Plan.ipynb)
 
-Im making a new notebook for eacgh of the 3 parts of the project
+Im making a new notebook for each of the 3 parts of the project
